@@ -5,7 +5,7 @@ import java.util.Random;
 
 /**
  *
- * A game of rock, paper, scissors
+ * A game of Rock, Paper, Scissors
  *
  * @author dm0971102
  */
