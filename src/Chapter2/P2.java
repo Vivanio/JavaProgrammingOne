@@ -1,14 +1,15 @@
-
 package Chapter2;
 
 import java.util.Scanner;
 
 /**
- *Shows fast food receipt including taxes
+ * Shows fast food receipt including taxes
+ *
  * @author Donavon Mitchell
  */
 public class P2 {
-/**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
