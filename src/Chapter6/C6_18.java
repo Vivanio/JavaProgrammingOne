@@ -45,7 +45,14 @@ public class C6_18 {
         }
     }
 
-    //Return type cannot be void
+    /**
+     * It checks if the password is sound with the policy
+     *
+     * @param office The main holder for the password
+     * @param um The parameter that shows if correct or not
+     * @return Returns if correct or not.
+     *
+     */
     public static int checker(String office, int um) {
         int count = 0;
         boolean no = false;

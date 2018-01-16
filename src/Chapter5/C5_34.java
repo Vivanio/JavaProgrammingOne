@@ -7,7 +7,7 @@ import java.util.Random;
  *
  * A game of Rock, Paper, Scissors
  *
- * @author dm0971102
+ * @author Donavon Mitchell
  */
 public class C5_34 {
 
