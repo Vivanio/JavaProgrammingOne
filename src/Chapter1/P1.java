@@ -13,7 +13,6 @@ public class P1 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         //Donavon Mitchell was here
         /* He was finished*/

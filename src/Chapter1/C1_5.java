@@ -12,7 +12,6 @@ public class C1_5 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         double X = (4.5 * 9.5);
         double Y = (2.5 * 3);

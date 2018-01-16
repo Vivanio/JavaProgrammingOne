@@ -12,7 +12,6 @@ public class C1_8 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         double Peri;
         double Area;

@@ -1,14 +1,15 @@
-
 package Chapter2;
 
 import java.util.Scanner;
 
 /**
  * To Find the Area and Volume of a Cylinder
+ *
  * @author Donavon Mitchell
  */
 public class C2_2 {
-/**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
